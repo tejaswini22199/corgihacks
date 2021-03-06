@@ -1,0 +1,33 @@
+body{
+    background-image: url(Assets/Images/background1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.band-name {
+    text-align: center;
+    margin: 0;
+    font-size: 4em;
+    font-family: "Booter - Zero Zero";
+    font-weight: normal;
+    color: white;
+}
+.main-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:palevioletred;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    border:2px solid pink;
+    width:fit-content;
+    background-color:pink;
+    padding:10px;
+    margin-left: 500px;
+    margin-right:100px;
+    margin-top:300px;
+   
+}
+a{
+    text-decoration: none;
+}
